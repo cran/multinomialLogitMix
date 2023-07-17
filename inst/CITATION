@@ -1,0 +1,10 @@
+bibentry("Article",
+         title = "Model based clustering of multinomial count data",
+         author = person("Panagiotis Papastamoulis"),
+         journal = "Advances in Data Analysis and Classification",
+         year    = "2023",
+         doi     = "10.1007/s11634-023-00547-5",
+        textVersion = "Papastamoulis, P. Model based clustering of multinomial count data. Advances in Data Analysis and Classification (2023). https://doi.org/10.1007/s11634-023-00547-5",    
+         mheader = "To cite package 'multinomialLogitMix' in publications, please, use the following article:"
+        )
+
